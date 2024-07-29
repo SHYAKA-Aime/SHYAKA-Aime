@@ -2,7 +2,7 @@
 <hr/>
 <div align="center" style="background:red">
     <img width="450" src="https://github-readme-stats.vercel.app/api?username=SHYAKA-Aime&show_icons=true&locale=en&theme=react&rank_icon=github&border_radius=10">
-    <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs?username=SHYAKA-Aime&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10" alt="mugishaj092">
+    <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs?username=SHYAKA-Aime&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10" alt="SHYAKA-Aime">
     <img align="center" width="790" border-radius="10" src="https://github-readme-activity-graph.vercel.app/graph?username=SHYAKA-Aime&&color=ffffff&line=6366f1&point=ffff&layout=compact&theme=react&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph">
 </div>
 
