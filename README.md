@@ -7,7 +7,7 @@
 </div>
 
 
-<h3 align="center">I'm Aime SHYAKA A Full-stack software developer from Kigali-Rwanda</h3>
+<h3 align="center">I'm Aime SHYAKA, A Full-stack software developer from Kigali-Rwanda</h3>
 
 <br/>
 
