@@ -21,11 +21,11 @@
 </div>
 
 
- <hr/>
+
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<hr/>
+
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,react,html,css,vscode,github,figma,tailwind,git" />
     <br/>
