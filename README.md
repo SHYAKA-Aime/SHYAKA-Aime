@@ -1,7 +1,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <hr/>
-
-
+     <img align="center" width="790" border-radius="10" src="https://github-readme-activity-graph.vercel.app/graph?username=SHYAKA-Aime&&color=ffffff&line=6366f1&point=ffff&layout=compact&theme=react&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph">
+ </div>
 
 <h3 align="center">I'm Aime SHYAKA, A Full-stack software developer from Kigali-Rwanda</h3>
 
